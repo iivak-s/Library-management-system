@@ -36,3 +36,8 @@ Return Book
 ### Return Books
 ![Screenshot 2024-01-26 222927](https://github.com/iivak-s/Library-management-system/assets/157677800/5b856900-8664-42dc-aa63-616456359599)
 
+
+## user guidelines 
+- Initially you will be given certain user name and password after using our service  with admin powers
+- On the home page you will see various option including adding book , issuing and taking returns
+- the system will keep track of the books \issued to the customers and  their due dates helping the management system to take certain activites  for their problems issues .
