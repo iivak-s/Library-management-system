@@ -17,10 +17,10 @@ Return Book
 
 
 ## User Interface Screenshots:
-### Login
+### Login page
 ![Screenshot 2024-01-26 222953](https://github.com/iivak-s/Library-management-system/assets/157677800/93c79521-787e-44c4-b0a0-38566740a4c6)
 
-### Home
+### Home page
 ![Screenshot 2024-01-26 223046](https://github.com/iivak-s/Library-management-system/assets/157677800/79157fc4-0c46-46ab-b6c2-5d0cdb433f49)
 
 ### Client Registration
